@@ -10,6 +10,7 @@ public class ForEachMethod {
             System.out.print(element + " ");
         });
 
+
         Arrays.stream(array).forEach(System.out::println);
     }
 }

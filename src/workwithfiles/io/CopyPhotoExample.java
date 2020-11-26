@@ -1,4 +1,4 @@
-package workwithfiles;
+package workwithfiles.io;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
